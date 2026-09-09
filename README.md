@@ -1,18 +1,19 @@
-# 🚀 IIT Bombay SARCathon 2026 — Ctrl C + Ctrl V
+<div align="center">
 
-<p align="center">
-  <b>Official Competition Submissions</b><br>
-  <i>Three competitions. Three different problem spaces. One team.</i>
-</p>
+# 🚀 IIT Bombay SARCathon 2026 --> Ctrl C + Ctrl V
 
-<p align="center">
+### Official Competition Submissions
+
+**Three competitions. Three different problem spaces. One team.**
+
+<br>
 
 ![IIT Bombay](https://img.shields.io/badge/IIT%20Bombay-SARCathon%202026-FF6B35?style=for-the-badge)
 ![Team](https://img.shields.io/badge/Team-Ctrl%20C%20%2B%20Ctrl%20V-6C5CE7?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Submitted-00B894?style=for-the-badge)
-![Submissions](https://img.shields.io/badge/Competitions-3-0984E3?style=for-the-badge)
+![Competitions](https://img.shields.io/badge/Competitions-3-0984E3?style=for-the-badge)
 
-</p>
+</div>
 
 ---
 
@@ -227,13 +228,31 @@ What connects them?
 
 ## 👥 Team
 
-**Ctrl C + Ctrl V**
+<div align="center">
+  
+## Ctrl C + Ctrl V
 
-- Daksh Khandelwal
-- Khushi Kushwah
+### Daksh Khandelwal
 
-### 🎓 IIT Jodhpur
-B.S. in AI & Data Science
+**2nd Year · B.S. in AI & Data Science · IIT Jodhpur**
+
+📧 **Email:** [dk.khandelwaliit@gmail.com](mailto:dk.khandelwaliit@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/daksh-khandelwal](https://www.linkedin.com/in/daksh-khandelwal-b02748391/)
+
+💻 **GitHub:** [@dk-khandelwal06](https://github.com/dk-khandelwal06)
+
+<br>
+
+### Khushi Kushwah
+
+**2nd Year · B.S. in AI & Data Science · IIT Jodhpur**
+
+📧 **Email:** [khushikushwah213@gmail.com](mailto:khushikushwah213@gmail.com)
+
+💻 **GitHub:** [@khushikushwah213](https://github.com/khushikushwah213)
+
+</div>
 
 ---
 
@@ -267,6 +286,21 @@ This repository contains the final competition materials submitted by Team Ctrl 
 No unnecessary project files are included — only the final submissions and supporting material required to showcase our work.
 
 ---
+
+## ©️ Usage & Rights
+
+All original content in this repository, including competition submissions,
+concepts, pitch decks, written material, and videos, is the intellectual
+property of **Team Ctrl C + Ctrl V**, unless otherwise stated.
+
+This repository is intended for **viewing, reference, and portfolio purposes**.
+No permission is granted to reproduce, modify, redistribute, or commercially
+use the original work without prior permission from the authors.
+
+© 2026 Ctrl C + Ctrl V
+
+---
+
 
 <p align="center">
   💙 Built by <b>Ctrl C + Ctrl V</b><br><br>
