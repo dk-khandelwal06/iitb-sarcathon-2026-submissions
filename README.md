@@ -224,6 +224,7 @@ What connects them?
 
 **Problem → Insight → Strategy → Execution.**
 
+
 ---
 
 ## 👥 Team
@@ -255,6 +256,7 @@ What connects them?
 </div>
 
 ---
+
 
 ## 📁 Repository Structure
 
